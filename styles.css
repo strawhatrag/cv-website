@@ -5,6 +5,20 @@ img {
 body {
   background-color: #c5d7bd;
 }
+table{
+  border-spacing: 20px;
+}
+.heading {
+  color: grey;
+}
+
+.links {
+  color: #383e56;
+}
+
+.links:hover {
+  color: green;
+}
 
 hr {
   border-style: none;
