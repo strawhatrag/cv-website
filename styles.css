@@ -4,20 +4,11 @@ img {
 
 body {
   background-color: #c5d7bd;
+  font-family: arial,sans-serif;
 }
-table{
-  border-spacing: 10px;
-}
-.heading {
+
+h1 {
   color: grey;
-}
-
-.links {
-  color: #383e56;
-}
-
-.links:hover {
-  color: green;
 }
 
 hr {
